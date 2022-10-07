@@ -1,7 +1,6 @@
 import os,sys
 from re import I
 import numpy as np
-sys.path.insert(0, "/Users/simonsenan/Documents/DDPM")
 
 import torch
 from torchvision import transforms
