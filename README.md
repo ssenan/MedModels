@@ -16,4 +16,8 @@ Dataset
 Sample Images
 =============
 * 2d axial slices obtained from 3D image at resolution of 128 x 128
-<img src="./Images/Picture1.jpg" ></img>
+
+<img src="./Images/Picture1.jpg" width="128px"></img>
+<img src="./Images/Picture2.jpg" width="128px"></img>
+<img src="./Images/Picture3.jpg" width="128px"></img>
+<img src="./Images/Picture4.jpg" width="128px"></img>
