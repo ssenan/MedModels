@@ -17,4 +17,4 @@ Sample Images
 =============
 * 2d axial slices obtained from 3D image at resolution of 128 x 128
 
-<img src="./Images/tio.Sample1.png" ></img>
+<img src="./Images/tioSample1.png" ></img>
